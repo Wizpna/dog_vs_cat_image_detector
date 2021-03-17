@@ -2,10 +2,6 @@
 
 A new Flutter application.
 
-## Getting Started
-
-# git_with_graphql
-
 A simple flutter project that uses tensor flow to detect if an image is cat or dog.
 
 <h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
