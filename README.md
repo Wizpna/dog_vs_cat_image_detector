@@ -17,7 +17,7 @@ A simple flutter project that uses tensor flow to detect if an image is cat or d
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-18-12-723_com.promise.openfoodfacts.jpg"><img src="https://lh3.googleusercontent.com/KY4d1mbPF6NDuQoJ3KPdv1EEcc8FsoEsgYnyUmiX09S-vVo0lAV3Xaoyq1T5WV3Xajg=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/ipUdGyk.png" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-18-12-723_com.promise.openfoodfacts.jpg"><img src="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-18-12-723_com.promise.openfoodfacts.jpg" alt="" data-canonical-src="https://i.imgur.com/ipUdGyk.png" style="max-width:100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/e-0pGGBKEFAOHZDHGEajs6ITEkpaLdrftpzToZ2pwTi-qGwcjY1EhIoFU_yj3MxlVq4=w720-h310-rw"><img src="https://lh3.googleusercontent.com/e-0pGGBKEFAOHZDHGEajs6ITEkpaLdrftpzToZ2pwTi-qGwcjY1EhIoFU_yj3MxlVq4=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/u1rCsZ8.png" style="max-width:100%;"></a></td>
 </tr>
 
