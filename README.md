@@ -11,8 +11,8 @@ A simple flutter project that uses tensor flow to detect if an image is cat or d
 <table>
 <thead>
 <tr>
-<th align="center">Dark Theme</th>
-<th align="center">Light Theme</th>
+<th align="center">Cat detected</th>
+<th align="center">Dog detected</th>
 </tr>
 </thead>
 <tbody>
