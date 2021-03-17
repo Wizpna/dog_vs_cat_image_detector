@@ -20,6 +20,7 @@ A simple flutter project that uses tensor flow to detect if an image is cat or d
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-22-27-851_com.promise.openfoodfacts.jpg" alt="" data-canonical-src="https://i.imgur.com/ipUdGyk.png" style="max-width:100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-18-12-723_com.promise.openfoodfacts.jpg" alt="" data-canonical-src="https://i.imgur.com/u1rCsZ8.png" style="max-width:100%;"></a></td>
 </tr>
+  </td>
 
 Contact - Let's become friends
 
