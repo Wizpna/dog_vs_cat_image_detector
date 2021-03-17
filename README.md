@@ -11,16 +11,27 @@ A simple flutter project that uses tensor flow to detect if an image is cat or d
 <table>
 <thead>
 <tr>
-<th align="center">Image detected as Dog</th>
-<th align="center">Image detected as Cat</th>
+<th align="center">Dark Theme</th>
+<th align="center">Light Theme</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-22-27-851_com.promise.openfoodfacts.jpg" alt="" data-canonical-src="https://i.imgur.com/ipUdGyk.png" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Wizpna/dog_vs_cat_image_detector/master/screenshots/Screenshot_2021-03-17-13-18-12-723_com.promise.openfoodfacts.jpg" alt="" data-canonical-src="https://i.imgur.com/u1rCsZ8.png" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/KY4d1mbPF6NDuQoJ3KPdv1EEcc8FsoEsgYnyUmiX09S-vVo0lAV3Xaoyq1T5WV3Xajg=w720-h310-rw"><img src="https://lh3.googleusercontent.com/KY4d1mbPF6NDuQoJ3KPdv1EEcc8FsoEsgYnyUmiX09S-vVo0lAV3Xaoyq1T5WV3Xajg=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/ipUdGyk.png" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/e-0pGGBKEFAOHZDHGEajs6ITEkpaLdrftpzToZ2pwTi-qGwcjY1EhIoFU_yj3MxlVq4=w720-h310-rw"><img src="https://lh3.googleusercontent.com/e-0pGGBKEFAOHZDHGEajs6ITEkpaLdrftpzToZ2pwTi-qGwcjY1EhIoFU_yj3MxlVq4=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/u1rCsZ8.png" style="max-width:100%;"></a></td>
 </tr>
-  </td>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/wt7Rd8nF4Ccm7-TmntYSdV2YaHzYplFkFX9jK5cu2MANNFpWuR5UIc1DD73SL6kW9YM=w720-h310-rw"><img src="https://lh3.googleusercontent.com/wt7Rd8nF4Ccm7-TmntYSdV2YaHzYplFkFX9jK5cu2MANNFpWuR5UIc1DD73SL6kW9YM=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/rujH2xz.png" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/dFLrBGZmu4_StiVdJj1Xz156I-a9w6Z2aCKD8jwCXZzfB6SZXXLkJlb8__N5by45d2Jj=w720-h310-rw"><img src="https://lh3.googleusercontent.com/dFLrBGZmu4_StiVdJj1Xz156I-a9w6Z2aCKD8jwCXZzfB6SZXXLkJlb8__N5by45d2Jj=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/gOx5T8H.png" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/XhYtYsQVeRDv5pn4kWzKfpjwcofPpsdRr2ISvxiCw3kQ1WgGZLmQb-c06mCnOJJFyWc=w720-h310-rw"><img src="https://lh3.googleusercontent.com/XhYtYsQVeRDv5pn4kWzKfpjwcofPpsdRr2ISvxiCw3kQ1WgGZLmQb-c06mCnOJJFyWc=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/RubqN3Z.png" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/UK71yaAN7e447_i8RTGkmmQil6uIs99pxu7_M-bprZ7Uc4XrHMfCnzSzKIV8UiTxk-xi=w720-h310-rw"><img src="https://lh3.googleusercontent.com/UK71yaAN7e447_i8RTGkmmQil6uIs99pxu7_M-bprZ7Uc4XrHMfCnzSzKIV8UiTxk-xi=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/D2Ucb2t.png" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
+</p>
+
 
 Contact - Let's become friends
 
