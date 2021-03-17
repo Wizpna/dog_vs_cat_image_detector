@@ -1,4 +1,4 @@
-# openfoodfacts
+# dog_vs_cat_image_detector
 
 A new Flutter application.
 
